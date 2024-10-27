@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camalzadeelvin\\source\\repos\\TestGit\\TestGit\\TestGit.csproj",
+      "projectUniqueName": "C:\\Users\\camalzadeelvin\\Source\\Repos\\GitTest-3-22-10-app\\TestGit\\TestGit.csproj",
       "projectName": "TestGit",
-      "projectPath": "C:\\Users\\camalzadeelvin\\source\\repos\\TestGit\\TestGit\\TestGit.csproj",
+      "projectPath": "C:\\Users\\camalzadeelvin\\Source\\Repos\\GitTest-3-22-10-app\\TestGit\\TestGit.csproj",
       "packagesPath": "C:\\Users\\camalzadeelvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camalzadeelvin\\source\\repos\\TestGit\\TestGit\\obj\\",
+      "outputPath": "C:\\Users\\camalzadeelvin\\Source\\Repos\\GitTest-3-22-10-app\\TestGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
